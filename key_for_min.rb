@@ -13,6 +13,6 @@ def key_for_min_value(name_hash)
     elsif name_hash == nil
       nil
     end
-    lowest_key
   end
+  lowest_key
 end
